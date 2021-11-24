@@ -33,9 +33,9 @@ function preload() {
     getBackgroundImg();
     bgImg=loadImage(bg);
 
-    birdFlySound=loadSound("sounds/bird_flying.mp3")
-    pigSnortSound=loadSound("sounds/pig_snort.mp3")
-    birdSelectSound=loadSound("sounds/bird_select.mp3")
+    birdFlySound=loadSound("sprites/bird_flying.mp3")
+    pigSnortSound=loadSound("sprites/pig_snort.mp3")
+    birdSelectSound=loadSound("sprites/bird_select.mp3")
     
 }
 
