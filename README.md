@@ -2,7 +2,7 @@
 
 ## Run the game here
 
-https://paradoxflame.github.io/C33/
+https://paradoxflame.github.io/Angry-Birds/
 
 Please leave a star
 
